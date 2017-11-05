@@ -40,5 +40,5 @@
 <li> Fixed Emoji Scroll</li>
 <li> Other Fixes</li>
 
-","url":"http://www.gbmods.co/?p=19"
+","url":"http://www.alaskar-mods.com"
 }
